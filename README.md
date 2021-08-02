@@ -3,4 +3,4 @@
 ## POTATO
 
 
-[![Requires Fabric API](https://i.imgur.com/Ol1Tcf8.png)](https://www.curseforge.com/minecraft/mc-mods/fabric-api)
+[![Requires Fabric API](https://i.imgur.com/Ol1Tcf8t.png)](https://www.curseforge.com/minecraft/mc-mods/fabric-api)
