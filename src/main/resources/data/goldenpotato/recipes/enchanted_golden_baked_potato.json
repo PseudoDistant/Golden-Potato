@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "@/@",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:gold_block"
+        },
+        "@": {
+            "item": "minecraft:netherite_block"
+        },
+        "/": {
+            "item": "goldenpotato:golden_baked_potato"
+        }
+    },
+    "result": {
+        "item": "goldenpotato:enchanted_golden_baked_potato",
+        "count": 1
+    }
+} 
